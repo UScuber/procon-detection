@@ -1,0 +1,22 @@
+{
+  "name": "procon-detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "procon-detection"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.2",
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "node-html-parser": "^6.1.5"
+  }
+}
